@@ -1,2 +1,2 @@
-# Flo-s-Restaurant
+# Flos-Restaurant
 Final Project - The Origin I : HTML
